@@ -24,7 +24,7 @@ The biggest takeaways on accesibility:
   * [another checklist](https://romeo.elsevier.com/accessibility_checklist/)
 * [MDN accesibility Outline](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
 * [MDN handling accseibility problems](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Accessibility)
-* [W3 WAI WCAG 2 guidlines](https://www.w3.org/WAI/standards-guidelines/wcag/)<sup>#1</sup>
+* [W3 WAI WCAG 2 guidlines](https://www.w3.org/WAI/standards-guidelines/wcag/) <sup>__Acronym Party!__</sup>
 * [Google talks about ARIA](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/aria-labels-and-relationships)
 * [Building Accesible Frontends](https://medium.com/capital-one-tech/building-accessible-front-ends-298c03e5bd86)
 * [Accsibility tips](https://medium.com/@lizfaria/accessibility-tips-for-frontend-developers-83d094146153)
@@ -48,4 +48,4 @@ The biggest takeaways on accesibility:
 * [Google's lighthouse](https://developers.google.com/web/tools/lighthouse/)
 * [Ally.js](https://allyjs.io/#what-people-say)
   
-[1](#1) __Acronym Party!__
+
